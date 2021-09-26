@@ -1,0 +1,50 @@
+.bankInfo {
+  margin: 30px;
+}
+
+.inputsBlock {
+  display: block;
+  width: 50%;
+}
+
+td {
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
+
+.addBtn {
+  margin: 30px;
+  background-color: #566885;
+  border: #566885;
+}
+
+.addBtn:hover {
+  margin: 30px;
+  background-color: #29313d;
+  border: #566885;
+}
+
+.editBtn {
+  margin: 30px;
+  background-color: #566885;
+  border: #566885;
+}
+
+.editBtn:hover {
+  margin: 30px;
+  background-color: #29313d;
+  border: #566885;
+}
+.icon {
+  width: 16px;
+  margin: 0 5px 0 5px;
+}
+
+.linkToCalc {
+  margin: 30px;
+  background-color: #566885;
+  border: #566885;
+}

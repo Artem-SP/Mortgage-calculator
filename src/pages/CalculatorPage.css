@@ -1,0 +1,37 @@
+.container {
+  margin: 0 10 0 10;
+}
+
+Table {
+  margin-top: 30px;
+}
+
+option {
+  width: 300px;
+}
+
+select {
+  width: 300px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.linkToCalc {
+  color: #566885;
+  margin: 30px;
+  background-color: white;
+  border: #566885;
+}
+
+.btnCount {
+  color: white;
+  margin: 30px;
+  background-color: #566885;
+  border: #566885;
+}
+
+.btnCount:hover {
+  margin: 30px;
+  background-color: #29313d;
+  border: #566885;
+}
